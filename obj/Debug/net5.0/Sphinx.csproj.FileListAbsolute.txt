@@ -1,0 +1,16 @@
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.csprojAssemblyReference.cache
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.AssemblyInfoInputs.cache
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.AssemblyInfo.cs
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.csproj.CoreCompileInputs.cache
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\bin\Debug\net5.0\Sphinx.exe
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\bin\Debug\net5.0\Sphinx.deps.json
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\bin\Debug\net5.0\Sphinx.runtimeconfig.json
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\bin\Debug\net5.0\Sphinx.runtimeconfig.dev.json
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\bin\Debug\net5.0\Sphinx.dll
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\bin\Debug\net5.0\ref\Sphinx.dll
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\bin\Debug\net5.0\Sphinx.pdb
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.dll
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\ref\Sphinx.dll
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.pdb
+C:\Users\thesu\Desktop\Epicodus\CWEEK1\Sphinx\obj\Debug\net5.0\Sphinx.genruntimeconfig.cache
